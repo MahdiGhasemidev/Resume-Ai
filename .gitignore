@@ -4,3 +4,5 @@ __pycache__
 .D*
 ../DS_Store
 data/
+.vscode
+image/
